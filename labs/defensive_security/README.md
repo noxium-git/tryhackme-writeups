@@ -1,10 +1,10 @@
-# 🛡️ Defensive Security Notes
+#️ Defensive Security Notes
 
 Notas e resumos sobre **defensive security** do TryHackMe.
 
 ---
 
-## 🏢 Security Operations Center (SOC)
+## Security Operations Center (SOC)
 O SOC monitora e responde a:
 - Vulnerabilidades
 - Violações de políticas
@@ -15,14 +15,14 @@ Uma das tarefas principais é **Threat Intelligence** — recolher informação 
 
 ---
 
-## 🧠 Threat Intelligence
+## Threat Intelligence
 "Intelligence" = informação que recolhemos sobre ataques ou possíveis ameaças para estar sempre um passo à frente.
 
 ---
 
-## 🔍 Digital Forensics and Incident Response (DFIR)
+## Digital Forensics and Incident Response (DFIR)
 
-### 🧪 Digital Forensics
+###  Digital Forensics
 Uso de ciência para investigar crimes digitais:
 - Ficheiros do sistema
 - Memória do sistema
@@ -51,13 +51,13 @@ Se encontrar algo suspeito → gera alerta para investigação.
 Tarefa feita:
 - Detetei um login malicioso do IP **143.110.250.149** (China)
 - Pedi ao líder do SOC para bloquear o IP
-- Bloqueio realizado com sucesso ✅
+- Bloqueio realizado
 
 ---
 
 ## Carreiras em Cibersegurança
 - Alta remuneração  
-- Trabalho excitante (hacking legal ou defesa)  
+- Trabalho (hacking legal ou defesa)  
 - Profissionais em grande procura  
 
 Cargos:
