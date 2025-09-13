@@ -3,7 +3,7 @@
 Thumbs.db
 
 # keys and env
-*.pen
+*.pem
 *.key
 *.crt
 *.env
