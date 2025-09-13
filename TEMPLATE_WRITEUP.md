@@ -1,4 +1,4 @@
-**Data:** YYYY-MM-DD
+**Data:** 2025-09-13
 **Categoria:** TryHackMe / Pentesting /Rede / Forense
 **Stack:** Ubuntu, nmap, ssh, python3
 
