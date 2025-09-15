@@ -15,7 +15,7 @@ Bem vindo ao meu diário de TryHackMe. Aqui vou guardar todos os write-ups, nota
 
 ## Dicas e Comandos Úteis
 - Sempre começo por enumerar o alvo: `nmap -sC -sV IP`  
-- Usei `dirb` ou `gobuster` para descobrir diretórios (brute-fore)  
+- Usei `dirb` ou `gobuster` para descobrir diretórios (brute-force)  
 - Lembra-te de verificar permissões e users no Linux: `ls -la`, `whoami`, `id`  
 - Guarda tudo num ficheiro `.txt` ou `.md` para não esquecer
 
